@@ -1,2 +1,2 @@
-# camarket
-Hosting page here: https://camarket.herokuapp.com/
+# Shakafostroy
+Hosting page here: https://shakafostroy-market.herokuapp.com/
